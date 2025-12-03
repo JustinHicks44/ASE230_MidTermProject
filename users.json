@@ -1,0 +1,17 @@
+[
+    {
+        "id": "68ed6017acc35",
+        "username": "admin",
+        "email": "admin@example.com",
+        "password": "$2y$10$1wCbZ0ZA/rdTDCDmB5JuuO2uOrKJnKvKUCN/ZzPyWJXABL5SGttZG",
+        "role": "admin",
+        "created_at": 1760387095
+    },
+    {
+        "id": "68ed60834cf07",
+        "username": "Justinhicks",
+        "email": "Justinhicks40@yahoo.com",
+        "password": "$2y$10$xCeNJL7y8M8LYYrjJEKOvufxYMxzAZyIItlOUfZjcpOwJTEJ4344y",
+        "role": "user"
+    }
+]

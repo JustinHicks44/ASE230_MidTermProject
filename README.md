@@ -1,3 +1,4 @@
+this is a read me
 # Event Ticketing System
 
 A full-stack event management and ticketing platform built with PHP, MySQL, and Bootstrap. Allows users to browse events with advanced filtering, view event details with real-time ticket availability, and provides organizers with a complete dashboard to manage events and view sales.
