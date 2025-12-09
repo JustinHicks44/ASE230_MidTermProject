@@ -32,7 +32,7 @@ $items = storage_read($type);
 <body>
   <div class="container my-5">
     <h1>Admin - <?=htmlspecialchars($type)?></h1>
-    <p><a href="admin.php?type=users">Users</a> | <a href="admin.php?type=items">Items</a> | <a href="logout.php">Sign out</a></p>
+    <p><a href="admin.php?type=users">Users</a> | <a href="admin.php?type=items">Items</a> | <a href="organiser_dashboard.php">Organizer Database</a>| <a href="logout.php">Sign out</a></p>
     <p><a class="btn btn-primary" href="admin_edit.php?type=<?=urlencode($type)?>">Create new</a></p>
     <table class="table table-striped">
       <thead><tr>
